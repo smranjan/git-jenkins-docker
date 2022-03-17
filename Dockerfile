@@ -1,2 +1,2 @@
 FROM httpd
-ADD ./devopsIQ /usr/local/apache2/htdocs/devopsIQ
+ADD ./mylabfs /usr/local/apache2/htdocs/mylabfs
